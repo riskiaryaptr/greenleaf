@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from "react";
 import HarverstCardUtama from './HarverstCardUtama';
-import card1 from '../../../assets/banner/card-1.png';
-import card2 from '../../../assets/banner/card-2.png';
-import card3 from '../../../assets/banner/card-3.png';
-import card4 from '../../../assets/banner/card-4.png';
-import card5 from '../../../assets/banner/card-5.png';
-import card6 from '../../../assets/banner/card-6.png';
-import card7 from '../../../assets/banner/card-7.png';
-import card8 from '../../../assets/banner/card-8.png';
+import card1 from '../../../assets/Banner/card-1.png';
+import card2 from '../../../assets/Banner/card-2.png';
+import card3 from '../../../assets/Banner/card-3.png';
+import card4 from '../../../assets/Banner/card-4.png';
+import card5 from '../../../assets/Banner/card-5.png';
+import card6 from '../../../assets/Banner/card-6.png';
+import card7 from '../../../assets/Banner/card-7.png';
+import card8 from '../../../assets/Banner/card-8.png';
 
 const harvestData = [
     {

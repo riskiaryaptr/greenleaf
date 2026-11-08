@@ -13,7 +13,7 @@ import RomaTomato from "@/pages/landingPages/romaTomato";
 import HeirloomTomato from "@/pages/landingPages/heirloomTomato";
 import ArtikelDetail from "@/components/landingPages/artikel/artikelDetail";
 import ArtikelDetailWatering from "@/components/landingPages/artikel/artikelDetailWatering";
-import ArtikelCardUtama from "@/components/landingPages/artikel/ArtikelCardUtama";
+import ArtikelCardUtama from "@/components/landingPages/artikel/artikelCardUtama";
 import IdentifyPlant from "@/pages/landingPages/IdentifyPlant";
 import BlogArtikel from "@/components/landingPages/artikel/blogArtikel";
 import ArtikelCardBlog from "@/components/landingPages/artikel/artikelCardBlog";

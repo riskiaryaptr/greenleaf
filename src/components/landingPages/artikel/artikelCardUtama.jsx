@@ -1,7 +1,7 @@
 import React from "react";
 import { useLocation } from 'react-router-dom';
 import HarvestLandingAbout from '@components/landingPages/plantlis/HarvestLandingAbout';
-import defaultImage from '../../../assets/banner/card-1.png';
+import defaultImage from '../../../assets/Banner/card-1.png';
 import Footer from '@/layout/landingPages/footer';
 
 function ArtikelCardUtama() {

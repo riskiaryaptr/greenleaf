@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import LittleButton from "../LittleButton";
-import NotHavePlant from "../../assets/MyPlant/notHavePlant.png";
+import NotHavePlant from "../../assets/MyPlant/NotHavePlant.png";
 import FormPlant from "./FormPlant";
 
 const AddPlant = ({ onPlantAdded }) => {

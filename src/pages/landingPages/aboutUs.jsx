@@ -2,11 +2,11 @@ import React from "react";
 import HarvestLandingAbout from '@components/landingPages/plantlis/HarvestLandingAbout';
 import PlantCareItemSection from '@components/landingPages/plantlis/PlantCareItemSection';
 import ArtikelList from '@components/landingPages/artikel/ArtikelList';
-import Artikelsection from '@components/landingPages/Artikel/Artikelsection';
-import image1 from '../../assets/banner/1.png';
-import image2 from '../../assets/banner/2.png';
-import image3 from '../../assets/banner/3.png';
-import image4 from '../../assets/banner/4.png';
+import Artikelsection from '@components/landingPages/artikel/Artikelsection';
+import image1 from '../../assets/Banner/1.png';
+import image2 from '../../assets/Banner/2.png';
+import image3 from '../../assets/Banner/3.png';
+import image4 from '../../assets/Banner/4.png';
 import Footer from '@/layout/landingPages/footer';
 
 function AboutUs() {
